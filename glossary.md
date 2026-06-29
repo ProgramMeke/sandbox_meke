@@ -13,3 +13,4 @@ Mixed reset: git reset --mixed - keep changes in the working directory (no work 
 Git cherry-pick
 copy a commit between branches
 
+definition three
