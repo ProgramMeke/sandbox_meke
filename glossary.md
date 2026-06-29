@@ -3,3 +3,6 @@ An independent line of development within a Git repository. Each branch can cont
 
 Merge
 The process of combining the changes from one branch into another branch. Git records the integration in the repository history.
+
+Version control
+Record of changes
