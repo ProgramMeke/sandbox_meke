@@ -7,3 +7,6 @@ The process of combining the changes from one branch into another branch. Git re
 Version control
 Record of changes
 
+Mixed reset
+Mixed reset: git reset --mixed - keep changes in the working directory (no work is lost)
+
