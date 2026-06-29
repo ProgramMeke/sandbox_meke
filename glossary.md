@@ -10,3 +10,6 @@ Record of changes
 Mixed reset
 Mixed reset: git reset --mixed - keep changes in the working directory (no work is lost)
 
+Git cherry-pick
+copy a commit between branches
+
